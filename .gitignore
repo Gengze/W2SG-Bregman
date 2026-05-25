@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project artifacts
+.DS_Store
+Models/
+results/
+wandb/
+logs/
+*.log
+*.pt
+*.pth
+*.bin
+*.safetensors
