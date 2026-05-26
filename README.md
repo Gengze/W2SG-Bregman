@@ -83,11 +83,13 @@ results/<sweep_subfolder>/<config_name>/
 If you find this repository helpful, please cite our paper:
 
 ```bibtex
-@article{xu2025emergence,
-  title={On the emergence of weak-to-strong generalization: A bias-variance perspective},
-  author={Xu, Gengze and Yao, Wei and Wang, Ziqiao and Liu, Yong},
-  journal={arXiv preprint arXiv:2505.24313},
-  year={2025}
+@inproceedings{
+anonymous2026weaktostrong,
+title={Weak-to-Strong Generalization via Bregman Bias{\textendash}Variance Decomposition},
+author={Anonymous},
+booktitle={Forty-third International Conference on Machine Learning},
+year={2026},
+url={https://openreview.net/forum?id=nWxUhxv4d8}
 }
 ```
 
